@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stoper/static/css/main.02191039.css",
+    "main.js": "/Stoper/static/js/main.1b0a60fa.js",
+    "index.html": "/Stoper/index.html",
+    "main.02191039.css.map": "/Stoper/static/css/main.02191039.css.map",
+    "main.1b0a60fa.js.map": "/Stoper/static/js/main.1b0a60fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02191039.css",
+    "static/js/main.1b0a60fa.js"
+  ]
+}
